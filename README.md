@@ -3,6 +3,8 @@ Sou um jovem formado em Analise e Desenvolvimento de Sistemas, estudando para me
 
 - 🔭 No momento, estou procurando novas oportunidades.
 
+[![Spotify](https://<vercel-domain>.vercel.app/api/spotify)](https://open.spotify.com/user/12147259125)
+
 Hablidades: 
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
