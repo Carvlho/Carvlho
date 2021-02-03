@@ -10,8 +10,8 @@ Sou um jovem formado em Analise e Desenvolvimento de Sistemas, estudando para me
 
 Conecte-se comigo:
 
-[<img align='left' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>](https://github.com/Carvlho)  [<img align='left' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/Carvlho/)  [<img align='left' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>](https://www.instagram.com/Carvlho_/)  
-
+[<img align='left' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>](https://github.com/Carvlho)  [<img align='left' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/Carvlho/)  [<img align='left' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>](https://www.instagram.com/Carvlho_/)
 
 <h3 align="left">Tocando no Spotify 🎧</h3>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12147259125&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
