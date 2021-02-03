@@ -7,11 +7,7 @@ Hablidades:
 
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='15'> REACT / REACT NATIVE
 
-- <!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
-
-<!-- in your body -->
-<i class="devicon-javascript-plain colored"></i> JS 
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" /> JS 
 
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='react' height='15'> HTML 
 
